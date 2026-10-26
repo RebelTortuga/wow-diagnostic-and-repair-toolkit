@@ -115,6 +115,18 @@ Use **option 6 — Saved Logs** to open that folder in File Explorer. This is **
 ## Feedback and suggestions
 For bug reports, improvements, and feature requests, use the project’s GitHub Issues page when the repository is published.
 
+## Frequently asked questions and troubleshooting
+
+**Does this automatically repair World of Warcraft?** No. Start with the diagnostic options, inspect the report, then choose any repair deliberately. Some actions open a separate PowerShell console and may ask for administrator approval.
+
+**The game installation is not found. What should I do?** Open **Installation & Folders**, choose the correct WoW installation, then select **Refresh Installation**. If multiple copies exist, confirm that you chose the one you actually launch.
+
+**Why did a console window open?** The graphical menu launches existing interactive PowerShell operations in their own windows. Follow the instructions in that console; the graphical menu remains open.
+
+**Should WoW or Battle.net be running?** No. Fully exit both programs, including Battle.net in the system tray, before repair or reset operations.
+
+**A downloaded script is blocked. Is it safe to disable Windows security?** Do not disable system-wide protection. Read the supplied scripts and `RUN-README.md`, and follow Windows or organizational security policy. Report an unexpected warning with the exact text in a GitHub issue.
+
 ## 🔗 Related Free RebelTortuga Projects
 
 Explore other free tools and workflows:
