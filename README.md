@@ -115,6 +115,16 @@ Use **option 6 — Saved Logs** to open that folder in File Explorer. This is **
 ## Feedback and suggestions
 For bug reports, improvements, and feature requests, use the project’s GitHub Issues page when the repository is published.
 
+## 🔗 Related Free RebelTortuga Projects
+
+Explore other free tools and workflows:
+
+- [firefox-diagnostic-and-repair-toolkit](https://github.com/RebelTortuga/firefox-diagnostic-and-repair-toolkit)
+- [brave-diagnostic-and-repair-toolkit](https://github.com/RebelTortuga/brave-diagnostic-and-repair-toolkit)
+- [shell-diagnostic-and-repair-toolkit](https://github.com/RebelTortuga/shell-diagnostic-and-repair-toolkit)
+
+[Browse all RebelTortuga projects](https://github.com/RebelTortuga)
+
 ## 🐢 Support RebelTortuga
 
 All features are free. A donation is never required and does not unlock anything.
