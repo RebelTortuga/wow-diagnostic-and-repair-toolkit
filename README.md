@@ -148,3 +148,16 @@ The in-app **Optional Support** button asks before opening the same page in your
 ## License
 
 MIT; see [LICENSE](LICENSE). This independent toolkit is not affiliated with Blizzard.
+
+---
+
+<!-- BEGIN REBELTORTUGA SAFETY -->
+## Privacy & Software Safety
+
+Read the [project safety guidance](SAFETY.md) before use. It covers permissions, backups, recovery, local files, and security warnings. See [SECURITY.md](SECURITY.md) for vulnerability reporting and the [license](LICENSE) for terms.
+
+[Privacy & Software Safety](https://rebeltortuga.github.io/privacy-software-safety.html) · [Project Licenses](https://rebeltortuga.github.io/project-licenses.html)
+
+Do not upload passwords, access tokens, browser profiles, private backups, or unredacted diagnostic reports to public issues.
+<!-- END REBELTORTUGA SAFETY -->
+
