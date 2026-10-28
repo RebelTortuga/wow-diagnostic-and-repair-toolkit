@@ -161,7 +161,13 @@ Read the [project safety guidance](SAFETY.md) before use. It covers permissions,
 Do not upload passwords, access tokens, browser profiles, private backups, or unredacted diagnostic reports to public issues.
 <!-- END REBELTORTUGA SAFETY -->
 
-## Connect with RebelTortuga
+<!-- rebeltortuga-official-links:start -->
+## Official RebelTortuga links
 
-- [YouTube](https://www.youtube.com/@RebelTortuga)
+- [Website](https://rebeltortuga.github.io/)
+- [GitHub](https://github.com/RebelTortuga)
 - [Twitch](https://www.twitch.tv/rebeltortuga)
+- [▶ YouTube](https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ)
+- [Patreon](https://www.patreon.com/RebelTortuga)
+- [Ko-fi](https://ko-fi.com/rebeltortuga)
+<!-- rebeltortuga-official-links:end -->
