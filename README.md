@@ -164,12 +164,12 @@ Do not upload passwords, access tokens, browser profiles, private backups, or un
 <!-- rebeltortuga-official-links:start -->
 ## Official RebelTortuga links
 
-- [Website](https://rebeltortuga.github.io/)
-- [GitHub](https://github.com/RebelTortuga)
-- [Twitch](https://www.twitch.tv/rebeltortuga)
-- [▶ YouTube](https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ)
-- [Patreon](https://www.patreon.com/RebelTortuga)
-- [Ko-fi](https://ko-fi.com/rebeltortuga)
+- 🌐 [Website](https://rebeltortuga.github.io/)
+- <img src="https://cdn.simpleicons.org/github/FFFFFF" width="17" height="17" alt=""> [GitHub](https://github.com/RebelTortuga)
+- <img src="https://cdn.simpleicons.org/twitch/9146FF" width="17" height="17" alt=""> [Twitch](https://www.twitch.tv/rebeltortuga)
+- <img src="https://cdn.simpleicons.org/youtube/FF0033" width="17" height="17" alt=""> [YouTube](https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ)
+- <img src="https://cdn.simpleicons.org/patreon/FF424D" width="17" height="17" alt=""> [Patreon](https://www.patreon.com/cw/RebelTortuga)
+- <img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="17" height="17" alt=""> [Ko-fi](https://ko-fi.com/rebeltortuga)
 <!-- rebeltortuga-official-links:end -->
 
 ## Official Project Guide
