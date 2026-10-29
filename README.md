@@ -171,3 +171,7 @@ Do not upload passwords, access tokens, browser profiles, private backups, or un
 - [Patreon](https://www.patreon.com/RebelTortuga)
 - [Ko-fi](https://ko-fi.com/rebeltortuga)
 <!-- rebeltortuga-official-links:end -->
+
+## Official Project Guide
+
+[View the wow-diagnostic-and-repair-toolkit project guide](https://rebeltortuga.github.io/projects/wow-diagnostic-and-repair-toolkit.html)
