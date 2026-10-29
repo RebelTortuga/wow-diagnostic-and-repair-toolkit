@@ -1,5 +1,5 @@
 <!-- rebeltortuga-banner:start -->
-<p align="center"><img src="https://raw.githubusercontent.com/RebelTortuga/RebelTortuga/main/assets/RebelTortuga-Neon-Watermarked.webp" alt="RebelTortuga neon turtle watermarked banner" width="100%"></p>
+<p align="center"><img src="https://rebeltortuga.github.io/assets/RebelTortuga-Wireframe-Banner.webp" alt="RebelTortuga neon turtle watermarked banner" width="100%"></p>
 
 <p align="center">
 <a href="https://rebeltortuga.github.io/">Website</a> · <a href="https://github.com/RebelTortuga">GitHub</a> · <a href="https://www.twitch.tv/rebeltortuga">Twitch</a> · <a href="https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ">YouTube</a> · <a href="https://www.patreon.com/cw/RebelTortuga">Patreon</a> · <a href="https://ko-fi.com/rebeltortuga">Ko-fi</a>
