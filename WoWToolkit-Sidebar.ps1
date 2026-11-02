@@ -123,7 +123,7 @@ function Show-Section([string]$Name) {
 }
 try {
     $script:Form = New-Object System.Windows.Forms.Form
-    $script:Form.Text = 'WoW Diagnostic and Repair Toolkit - Version 1.0.0 - RebelTortuga'
+    $script:Form.Text = 'WoW Diagnostic and Repair Toolkit - Version 1.0.1 - RebelTortuga'
     $script:Form.Size = New-Object Drawing.Size(1080,900)
     $script:Form.MinimumSize = New-Object Drawing.Size(940,800)
     $script:Form.StartPosition = 'CenterScreen'
@@ -140,7 +140,7 @@ try {
     [void]$layout.RowStyles.Add((New-Object System.Windows.Forms.RowStyle('Absolute',43)))
     $script:Form.Controls.Add($layout)
     $heading = New-Object System.Windows.Forms.Label
-    $heading.Text = "WoW Diagnostic and Repair Toolkit`r`nVersion 1.0.0 | RebelTortuga | Free to use`r`n`r`nCompletely exit World of Warcraft and Battle.net before repairs."
+    $heading.Text = "WoW Diagnostic and Repair Toolkit`r`nVersion 1.0.1 | RebelTortuga | Free to use`r`n`r`nCompletely exit World of Warcraft and Battle.net before repairs."
     $heading.Dock = 'Fill'
     $layout.Controls.Add($heading,0,0)
     $layout.SetColumnSpan($heading,2)
